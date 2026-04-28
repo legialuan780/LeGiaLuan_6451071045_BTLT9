@@ -1,3 +1,3 @@
 # baitapc11
 ## Giao diện To-do List
-![Todo Screen](ketqua/kq1.png)
+![Todo Screen](lib/ketqua/kq1.png)
